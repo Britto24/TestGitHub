@@ -3,6 +3,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          version="2.5">
+<meta name="insight-app-sec-validation" content="4e106cef-6af2-48fb-8739-58ab86eb2493">
   <display-name>Webapp</display-name>
   <!--
   <servlet>
